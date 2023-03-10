@@ -1,0 +1,8 @@
+-----------Ejercicio 1: Lista de tareas--------------
+
+Queremos hacer una apliación donde cada usuario disponga de una lista para
+añadir tareas y marcarlas como completadas. Los usuarios se registrarán mediante 
+correo y contraseña, aunque también nos interesa almacenar su nombre completo. 
+Para cada tarea, queremos almacenar su título, descripción, 
+estado (completada o no completada) y fecha límite para completarla.
+
